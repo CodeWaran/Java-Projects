@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
-[]
+
 // Interface for User Input
 interface UserInput {
     double getAmount();
